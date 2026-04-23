@@ -42,7 +42,3 @@ next-env.d.ts
 
 # claude code (개인 로컬 설정만 제외, 공유 설정은 커밋)
 .claude/settings.local.json
-
-# local scratchpad (Q&A 로그 등 repo에 포함하지 않음)
-docs/review.md
-docs/todo.md
